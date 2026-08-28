@@ -44,7 +44,7 @@ Collaborated on an NYC-focused weather and air-quality application that provides
 
 ## 📫 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/emmanuel-ubah/) • [Resume](./assets/Emmanuel_Ubah_Resume.pdf)
+[LinkedIn](https://www.linkedin.com/in/eman-ubah/) • [Resume](./assets/Emmanuel_Ubah_Resume.pdf)
 
 
 
